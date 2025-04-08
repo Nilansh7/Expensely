@@ -2,7 +2,11 @@
 
 A modern and simple **Expense Tracking Application** to manage group expenses effortlessly. Split bills, keep track of spending, and manage your finances with ease!
 
-![Expensely Banner](https://your-image-url-if-you-want.com/banner.png)
+---
+
+<p align="center">
+  <img src="assets/expensely-logo.png" alt="Expensely Logo" width="400"/>
+</p>
 
 ---
 
